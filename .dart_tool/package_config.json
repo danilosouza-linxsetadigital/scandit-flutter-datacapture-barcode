@@ -111,9 +111,9 @@
     },
     {
       "name": "scandit_flutter_datacapture_core",
-      "rootUri": "../../scandit-flutter-datacapture-core",
+      "rootUri": "file:///C:/Users/danilo.souza/.puro/shared/pub_cache/git/scandit-flutter-datacapture-core-7733efafd09183ff9c5cad5fbfd0ffc6187254da/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "sky_engine",
@@ -176,7 +176,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-07-02T14:43:26.071323Z",
+  "generated": "2025-07-02T14:46:33.777300Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/Users/danilo.souza/.puro/envs/stable/flutter",

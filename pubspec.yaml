@@ -14,7 +14,9 @@ dependencies:
     sdk: flutter
   meta: ^1.15.0
   scandit_flutter_datacapture_core:
-    path: ../scandit-flutter-datacapture-core
+    git:
+      url: https://github.com/danilosouza-linxsetadigital/scandit-flutter-datacapture-core.git
+      ref: feature/update-6.21.3
 
 dev_dependencies:
   flutter_test:

@@ -10,6 +10,10 @@ flutter_test
 3.7
 file:///C:/Users/danilo.souza/.puro/envs/stable/flutter/packages/flutter_test/
 file:///C:/Users/danilo.souza/.puro/envs/stable/flutter/packages/flutter_test/lib/
+scandit_flutter_datacapture_core
+3.2
+file:///C:/Users/danilo.souza/.puro/shared/pub_cache/git/scandit-flutter-datacapture-core-7733efafd09183ff9c5cad5fbfd0ffc6187254da/
+file:///C:/Users/danilo.souza/.puro/shared/pub_cache/git/scandit-flutter-datacapture-core-7733efafd09183ff9c5cad5fbfd0ffc6187254da/lib/
 async
 3.4
 file:///C:/Users/danilo.souza/.puro/shared/pub_cache/hosted/pub.dev/async-2.12.0/
@@ -110,8 +114,4 @@ scandit_flutter_datacapture_barcode
 3.0
 file:///C:/Users/danilo.souza/projetos/Apps/scandit-flutter-datacapture-barcode/
 file:///C:/Users/danilo.souza/projetos/Apps/scandit-flutter-datacapture-barcode/lib/
-scandit_flutter_datacapture_core
-3.0
-file:///C:/Users/danilo.souza/projetos/Apps/scandit-flutter-datacapture-core/
-file:///C:/Users/danilo.souza/projetos/Apps/scandit-flutter-datacapture-core/lib/
 2

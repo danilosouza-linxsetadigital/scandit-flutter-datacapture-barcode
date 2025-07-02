@@ -142,9 +142,11 @@ packages:
   scandit_flutter_datacapture_core:
     dependency: "direct main"
     description:
-      path: "../scandit-flutter-datacapture-core"
-      relative: true
-    source: path
+      path: "."
+      ref: "feature/update-6.21.3"
+      resolved-ref: "7733efafd09183ff9c5cad5fbfd0ffc6187254da"
+      url: "https://github.com/danilosouza-linxsetadigital/scandit-flutter-datacapture-core.git"
+    source: git
     version: "6.21.3"
   sky_engine:
     dependency: transitive
@@ -217,4 +219,4 @@ packages:
     version: "14.3.1"
 sdks:
   dart: ">=3.7.0-0 <4.0.0"
-  flutter: ">=3.22.0"
+  flutter: ">=3.29.0"
