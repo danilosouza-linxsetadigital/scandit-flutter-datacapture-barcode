@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   meta: ^1.15.0
   scandit_flutter_datacapture_core:
-    path: ../scandit_flutter_datacapture_core
+    path: ../scandit-flutter-datacapture-core
 
 dev_dependencies:
   flutter_test:
