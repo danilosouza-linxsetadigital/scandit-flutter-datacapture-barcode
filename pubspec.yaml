@@ -7,20 +7,20 @@ homepage: https://scandit.com
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
-  flutter: ">=3.29.0"
+  flutter: ">=3.22.0"
 
 dependencies:
   flutter:
     sdk: flutter
   meta: ^1.15.0
   scandit_flutter_datacapture_core:
-    path: ../scandit-flutter-datacapture-core
+    path: ../scandit_flutter_datacapture_core-6.21.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mocktail: ^1.0.0
-  linter: ^1.46.0
+  mocktail: ^1.0.4
+  flutter_lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
